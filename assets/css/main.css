@@ -221,6 +221,10 @@ header #menu-btn:hover{
 .logoap{
     width: 18%;
 }
+
+p a{
+    color: white;
+}
 /*--------------------- 3- Header Area CSS (End) ---------------------*/
 
 
